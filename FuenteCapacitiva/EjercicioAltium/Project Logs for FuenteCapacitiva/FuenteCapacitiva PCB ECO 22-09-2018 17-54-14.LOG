@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=C1 Old DesignItemId=UVY1H102MHD New DesignItemId=Cap
+Change Component Footprint: Designator=C1 Old Footprint=Cap0.47u400v New Footprint=Cap470n400v
+Change Component Comment : Designator=C1 Old Comment=Cap New Comment=
+Added Room: Name=FuenteCapacitiva

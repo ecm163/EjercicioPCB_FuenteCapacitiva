@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [FuenteCapacitiva.PrjPcb]
+   Generated File[FuenteCapacitiva.GTL]
+   Generated File[FuenteCapacitiva.GBL]
+   Generated File[FuenteCapacitiva.GTO]
+   Generated File[FuenteCapacitiva.GTS]
+   Generated File[FuenteCapacitiva.GBS]
+   Generated File[FuenteCapacitiva.GBO]
+   Generated File[FuenteCapacitiva.GM1]
+   Generated File[FuenteCapacitiva.GM13]
+   Generated File[FuenteCapacitiva.RUL]
+   Generated File[FuenteCapacitiva.EXTREP]
+   Generated File[FuenteCapacitiva.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 1:09:49 On 23/09/2018
