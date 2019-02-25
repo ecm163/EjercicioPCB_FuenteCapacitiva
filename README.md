@@ -8,6 +8,7 @@ en una continua de menor voltaje, en este ejercicio unos 5 voltios aproximadamen
 En éste ejercicio se hacen dos cosas:
 
 1- Se diseña y simula el circuito en Orcad y Pspice (versión 17.2).
+
 2- Se diseña su correspondiente PCB con Altium Designer.
 
 Una descripción sintética sel ejercicio se en el PDF que se adjunta con el nombre: 
